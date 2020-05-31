@@ -30,5 +30,8 @@
 
 ## 4. Если у вас стоит винда, и вы не хотите ставить линукс
 1. Можно поставить MINGW64 и [доустановить](https://coderoad.ru/9427356/%D0%9A%D0%B0%D0%BA-%D1%81%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-Clang-%D0%BD%D0%B0-Windows) [clang](https://superuser.com/questions/1505283/how-to-install-clang-format-on-mingw-windows)
-2. [Как установить и использовать оболочку Linux Bash в Windows 10](https://www.comss.ru/page.php?id=4897)
+2. [Или Linux в Windows 10](https://docs.microsoft.com/ru-ru/windows/wsl/install-on-server)
 3. [Превращаем Windows в Ubunu](https://youtu.be/tD7jN5A7GE8)
+
+##5. VIM
+- [Хэдэр в вим](https://github.com/pbondoer/vim-42header)
