@@ -19,9 +19,9 @@
 **.PHONY:** - абстрактные цели.
 
 ## 2. Чекеры: их можно нагуглить
-- Libftest
-- libft-unit-test
-- libft-war-machine (вот этот раотает лучше всего)
+- [Libftest](https://github.com/jtoty/Libftest/blob/master/README.md)
+- [libft-unit-test](https://github.com/alelievr/libft-unit-test)
+- [libft-war-machine](https://github.com/ska42/libft-war-machine) (вот этот раотает лучше всего)
 
 ## 3. Полезные статьи от других пиров
 1. [Libft FAQ (mid 2020) by Sky](https://github.com/sky-183/42_faq)
