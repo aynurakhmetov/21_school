@@ -33,5 +33,5 @@
 2. [Или Linux в Windows 10](https://docs.microsoft.com/ru-ru/windows/wsl/install-on-server)
 3. [Превращаем Windows в Ubunu](https://youtu.be/tD7jN5A7GE8)
 
-##5. VIM
+## 5. VIM
 - [Хэдэр в вим](https://github.com/pbondoer/vim-42header)
