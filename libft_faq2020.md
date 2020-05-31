@@ -23,12 +23,12 @@
 - libft-unit-test
 - libft-war-machine (вот этот раотает лучше всего)
 
-## 3. Полезные статьи от других пироd
+## 3. Полезные статьи от других пиров
 1. [Libft FAQ (mid 2020) by Sky](https://github.com/sky-183/42_faq)
 2. [Libft FAQ by ayellinү](https://paper.dropbox.com/doc/LIBFT-5TCwT0vJEPasSgd3m6bW)
 3. [Полезный блог о учебе в Школе 21](https://42-21-school.blogspot.com/)
 
-## 4. Если у вас винда и вы не хотите ставить линукс или разворачивать виртуалку
+## 4. Если у вас стоит винда, и вы не хотите ставить линукс
 1. Можно поставить MINGW64 и [доустановить](https://coderoad.ru/9427356/%D0%9A%D0%B0%D0%BA-%D1%81%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-Clang-%D0%BD%D0%B0-Windows) [clang](https://superuser.com/questions/1505283/how-to-install-clang-format-on-mingw-windows)
 2. [Как установить и использовать оболочку Linux Bash в Windows 10](https://www.comss.ru/page.php?id=4897)
 3. [Превращаем Windows в Ubunu](https://youtu.be/tD7jN5A7GE8)
