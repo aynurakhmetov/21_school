@@ -34,7 +34,7 @@
 3. [Превращаем Windows в Ubunu](https://youtu.be/tD7jN5A7GE8)
 
 ## 5. VIM
-- [Хэдэр в вим](https://github.com/pbondoer/vim-42header)
+- [Header 42 в VIM](https://github.com/pbondoer/vim-42header)
 
 ## 6. Лайфхаки
 - Гуглите названия функций в слаке, и читайте треды, там бывает много полезной информации
