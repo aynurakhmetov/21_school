@@ -7,5 +7,8 @@
 - [Лекции по курсу "Компьютерные сети", начальный уровень](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)
 
 ## 3.  Тесты
-- Гуглите PFT, PFT2019
+- [Тест для тренеровки](https://github.com/adblanc/netwhat42-train)
+
+## 4. Калькулятор
+- [Удобно сверять свои расчеты](https://shootnick.ru/ip_calc/)
 
