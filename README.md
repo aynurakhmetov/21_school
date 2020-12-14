@@ -4,3 +4,9 @@
 - netwhat
 - gnl
 - printf
+
+Готовятся
+- ft_server
+- cub3d
+- libasm
+- minishell
